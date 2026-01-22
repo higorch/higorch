@@ -4,49 +4,41 @@
 📍 Goiânia - GO, Brasil  
 ⏳ +12 anos de experiência em desenvolvimento web
 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-black?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square)
+![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ---
 
 ## 🚀 Sobre mim
 
-Sou Desenvolvedor Full Stack com mais de **12 anos de experiência** na construção de **aplicações web robustas, escaláveis e orientadas a negócio**.
+Sou Desenvolvedor Full Stack com mais de **12 anos de experiência**, atuando no desenvolvimento de **aplicações web robustas, escaláveis e orientadas a negócio**.
 
-Tenho forte atuação em **PHP, Laravel e Livewire**, com domínio de front-end moderno e sólida experiência em **integrações financeiras, sistemas fiscais, e-commerces e plataformas corporativas**.
+Especialista em **PHP, Laravel e Livewire**, com domínio completo de **HTML, CSS, JavaScript e Alpine.js**, além de forte atuação em **e-commerces, sistemas fiscais e integrações bancárias**.
 
-Atuo do planejamento à entrega, sempre focado em **performance, manutenibilidade e valor real para o cliente**.
-
----
-
-## 💼 Projetos Web em Destaque
-
-Aqui estão alguns dos projetos que desenvolvi e estão em produção:
-
-### 🌐 [Bull Motors](https://bullmotors.com.br)
-Plataforma institucional para concessionária de veículos com foco em experiência do usuário, desempenho e integração com ferramentas de marketing.
-
-### 🌐 [APGlobal.dev](https://apglobal.dev)
-Site profissional com portfólio de serviços em desenvolvimento web, soluções digitais e tecnologia sob demanda.
-
-### 🌐 [Cosmefar](https://cosmefar.com)
-Website corporativo para um grupo de saúde/farmácia, com layout moderno, seções informativas e foco em clareza para o usuário.
-
-### 🌐 [Dr. Glaydson Reumatologista](https://drglaydsonreumatologista.com.br/)
-Website institucional para consultório médico, com foco em clareza, acessibilidade e otimização para SEO.
-
-### 🌐 [Dr. Rômulo Pereira](https://drromulopereira.com.br)
-Presença online profissional para atendimento médico, com navegação simples e conteúdo estratégico para pacientes.
+Trabalho de ponta a ponta: **arquitetura, desenvolvimento, performance, segurança e deploy em produção**.
 
 ---
 
 ## 🧠 Stack Principal
 
-### Back-end
+### 🔹 Back-end
 - PHP
 - Laravel
 - Livewire
 - SQL (MySQL / PostgreSQL)
-- Integrações bancárias e fiscais
+- APIs REST
+- Integrações bancárias (Unicred, Sicoob)
+- Emissão fiscal (CT-e, MDF-e)
 
-### Front-end
+### 🔹 Front-end
 - HTML5
 - CSS3
 - Tailwind CSS
@@ -54,15 +46,40 @@ Presença online profissional para atendimento médico, com navegação simples 
 - Alpine.js
 - jQuery
 
-### CMS & E-commerce
+### 🔹 CMS & E-commerce
+- Shopify (desenvolvimento e customização)
 - WordPress (temas e plugins do zero)
 - WooCommerce
-- Shopify (desenvolvimento e customização)
 
-### DevOps & Ferramentas
+### 🔹 DevOps & Ferramentas
 - Docker
 - Git / GitHub
-- Ambientes Linux
+- Linux
+- Estrutura de Dados
+
+---
+
+## 💼 Projetos Web em Produção
+
+### 🌐 Bull Motors  
+🔗 https://bullmotors.com.br  
+Site institucional para concessionária de veículos, com foco em performance, SEO e experiência do usuário.
+
+### 🌐 APGlobal.dev  
+🔗 https://apglobal.dev  
+Site profissional com apresentação de serviços em desenvolvimento web e soluções digitais sob demanda.
+
+### 🌐 Cosmefar  
+🔗 https://cosmefar.com  
+Plataforma institucional corporativa, com estrutura clara, conteúdo estratégico e foco em comunicação empresarial.
+
+### 🌐 Dr. Glaydson Reumatologista  
+🔗 https://drglaydsonreumatologista.com.br  
+Website médico institucional com foco em acessibilidade, SEO local e clareza para pacientes.
+
+### 🌐 Dr. Rômulo Pereira  
+🔗 https://drromulopereira.com.br  
+Site profissional para médico, com navegação simples e conteúdo orientado ao atendimento.
 
 ---
 
@@ -71,19 +88,29 @@ Presença online profissional para atendimento médico, com navegação simples 
 ### 🏢 Lion Tecnologia  
 **Desenvolvedor Full Stack**  
 📅 Fev 2025 – Fev 2026  
-- Desenvolvimento e manutenção de sistemas fiscais (CT-e, MDF-e)  
-- Integração com bancos e boletos (Unicred, Sicoob)
+
+- Desenvolvimento e manutenção de sistemas fiscais (CT-e e MDF-e)
+- Integração bancária e emissão de boletos
+- Aplicações críticas e escaláveis
+
+---
 
 ### 🏢 Cosmefar  
 **Desenvolvedor Full Stack**  
 📅 Ago 2020 – Jan 2025  
-- Desenvolvimento completo de aplicações web  
-- Criação e manutenção de soluções digitais para gestão e vendas
+
+- Desenvolvimento de aplicações web completas
+- Sistemas de gestão comercial e força de vendas
+- Manutenção e evolução de sistemas internos
+
+---
 
 ### 🏢 Netmidia Propaganda  
 **Desenvolvedor Web**  
 📅 Jan 2017 – Jun 2020  
-- Desenvolvimento de sites e landing pages com foco em performance
+
+- Desenvolvimento de sites e landing pages
+- Projetos para campanhas digitais de alcance nacional
 
 ---
 
@@ -99,9 +126,9 @@ Senac Goiás — *2013 – 2016*
 
 ## 📫 Contato
 
-- 📱 WhatsApp: **+55 (62) 99322-3286**
-- 🌐 GitHub: [github.com/higorch](https://github.com/higorch)
+📱 WhatsApp: **+55 (62) 99322-3286**  
+🌐 GitHub: https://github.com/higorch  
 
 ---
 
-⭐ Se você procura um desenvolvedor **sênior**, **versátil** e com visão de produto — vamos conversar!
+⭐ **Aberto a novos desafios, projetos e oportunidades.**
